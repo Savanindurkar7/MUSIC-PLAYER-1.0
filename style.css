@@ -51,7 +51,7 @@ html ,body{
 .song1{
   cursor: pointer;
   margin-top:20px;
-  width:400px;
+  width:370px;
   height: 70px;
   background-color: #B1B2BB33;
   margin-left:30px;
@@ -114,7 +114,7 @@ html ,body{
 .main a svg{
   width: 37px;
   position: absolute;
- margin-top:70px;
+ margin-top:25px;
  margin-left:390px;
   
 }
