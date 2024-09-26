@@ -54,7 +54,7 @@ let arr = [
       artist: "Darshan Raval",
       time: "5:53"
   },
-  
+  /*
   {
     songName: "Mehrma",
       url: "/Mehrama.mp3",
@@ -62,6 +62,7 @@ let arr = [
       artist: "Darshan Raval",
       time: "4:04"
   }
+  */
   
 ];
 
